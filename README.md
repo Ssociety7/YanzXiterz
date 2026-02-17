@@ -50,10 +50,15 @@
 
 <div align="center">
 
-pkg update 
-pkg upgrade
+apt-get update -y
 
-git clone (github me)
+apt-get install git
+
+git clone https://github.com/Ssociety7/YanzXiterz
+
+cd YanzXiterz
+
+python YanzXiterz.py
 
 </div>
 
