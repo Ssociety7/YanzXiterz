@@ -52,6 +52,8 @@
 
 apt-get update -y
 
+pip install requests
+
 apt-get install git
 
 git clone https://github.com/Ssociety7/YanzXiterz
